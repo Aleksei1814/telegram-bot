@@ -4,8 +4,8 @@
   "description": "how works mother",
   "main": "app.js",
   "dependencies": {
-    "node-telegram-bot-api": "^0.29.0",
-    "strict-mode": "^1.0.2"
+    "node-telegram-bot-api": "^0.54.0",
+    "strict-mode": "^1.1.5"
   },
   "engines" : {
     "node" : "^6.10.2",
